@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! 👋 I'm Garang D. Garang
 
 I am a **Software Engineering student** at USIU-Africa, an aspiring **AI/ML Developer**, and a tech enthusiast based in **Nairobi, Kenya**. My goal is to leverage artificial intelligence to build innovative solutions that solve real-world problems, with a particular passion for agritech, supply chain traceability, and social impact.
